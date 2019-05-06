@@ -1,0 +1,11 @@
+app/images/footage/
+node_modules/
+app/bower_components
+image/
+.DS_Store
+dist/
+.tar.gz
+*.tar.gz
+**.tar.gz
+app.tar.gz
+app/reports/
